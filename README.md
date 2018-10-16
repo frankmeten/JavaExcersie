@@ -6,3 +6,6 @@
 
 https://stackoverflow.com/questions/36298051/count-and-display-ways-to-climb-staircase-java 的waysToReachN是递归调用
 当时我的方法应该是没有用递归，不过构造树，树可能很大。孰优孰略？
+
+
+https://github.com/nagajyothi/InterviewBit/blob/master/DynamicProgramming/Stairs.java
