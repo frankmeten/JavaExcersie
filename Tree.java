@@ -118,7 +118,7 @@ public class Tree {
        }
 
        public static void main(String[] args) {
-               // 构建二叉树
+               // 构建二叉树 如果有一个随机生成二叉树的方法就好了
                TreeNode root = new TreeNode(1);
                root.left = new TreeNode(2);
                root.right = new TreeNode(3);
